@@ -49,7 +49,7 @@
     </tr>
     <tr>
       <td>2023 - Present</td>
-      <td>Prime Therapeutics</td>
+      <td>Prime Therapeutics, Phoniex AZ</td>
       <td>Full Stack Developer</td>
     </tr>
   </table>
