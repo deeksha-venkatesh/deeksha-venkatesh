@@ -94,7 +94,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <img alt="Phone" src="https://img.shields.io/badge/Phone-+1 628 261 2312-lightgrey" />
+  <img alt="Phone" src="https://img.shields.io/badge/Phone-+1 603 921 7572-lightgrey" />
 </p>
 
 ---
