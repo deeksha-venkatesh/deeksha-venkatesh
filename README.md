@@ -90,7 +90,7 @@
     <img alt="Medium" src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:deekshastudieshere@gmail.com">
+  <a href="mailto:deekshavgowdaa@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
   &nbsp;
